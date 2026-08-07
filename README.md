@@ -17,8 +17,8 @@ Manila, Philippines · GMT+8
 
 ### About Me
 
-- 🧠 Building AI-powered systems for service businesses — support agents, CRM automation, dashboards you can actually see into, not a black box
-- 🎓 Based in Manila, currently juggling freelance work with college
+- 🧠 Building AI-powered systems for service businesses — support agents, CRM automation, Scaling your business with beneficial outcomes, and returns.
+- 🎓 Based in Cavite, currently juggling freelance work with college
 - 💼 Taking on project-based work through Upwork / OnlineJobs.PH — fixed scope, not retainers
 - 🎯 No tool-learning without a real client or market reason — I scope by what's actually valuable, not what's fun to build
 
