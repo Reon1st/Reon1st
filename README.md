@@ -1,28 +1,56 @@
-### Reon Martin
-**AI Systems Consultant** · Manila, Philippines · GMT+8
+<h1 align="center">Hey, I'm Reon 👋</h1>
+<h3 align="center">AI Systems Consultant · Freelance Developer</h3>
 
-I build AI-powered systems for service businesses — support agents, CRM automation, dashboards you can actually see into, and the websites that sit in front of them. Freelance, project-based, currently juggling this with college.
+<p align="center">
+I build AI-powered systems for service businesses — support agents, CRM automation, live dashboards, and the websites that sit in front of them.<br/>
+Manila, Philippines · GMT+8
+</p>
 
-Not chasing tool badges for the sake of it — if a client doesn't need it, I don't build it. Everything below shipped, not tutorial-followed.
+<p align="center">
+<a href="https://www.upwork.com/freelancers/~0133dfaffaaaf4cc5a"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/reon-martin-5bb8b7364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.onlinejobs.ph/jobseekers/info/2718705"><img src="https://img.shields.io/badge/OnlineJobs.PH-1DBF73?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:reonfirst@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-**Recently shipped**
+### About Me
+
+- 🧠 Building AI-powered systems for service businesses — support agents, CRM automation, dashboards you can actually see into, not a black box
+- 🎓 Based in Manila, currently juggling freelance work with college
+- 💼 Taking on project-based work through Upwork / OnlineJobs.PH — fixed scope, not retainers
+- 🎯 No tool-learning without a real client or market reason — I scope by what's actually valuable, not what's fun to build
+
+### Tech Stack
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1A1A2E?style=for-the-badge&logoColor=white)
+
+**Frontend & Motion**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+**Backend & Integrations**
+
+![Trigger.dev](https://img.shields.io/badge/Trigger.dev-1A1A2E?style=for-the-badge&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Composio](https://img.shields.io/badge/Composio-1A1A2E?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Recently Shipped
 
 - 🎫 **[AI Support Ticket Triage](https://aisystem-frontend.vercel.app)** — reads support emails against your own docs, answers the routine ones, escalates anything risky with an AI-drafted reply ready to edit
 - 📊 **AI Operations Dashboard** — status that only flips to "Active" after a real production run, not a UI toggle
 - 🧾 **[Invoice Automation](https://invoice-automation-pi.vercel.app)** — one form → branded PDF, drafted email, filed to Drive
 - 🍽️ **[Kayumanggi](https://kayumaggi-restaurant-website.vercel.app)** — restaurant site with a reservation form that checks real seat availability before it says yes
 - 🔧 **[ProFix](https://profix-delta.vercel.app)** — live AI-generated quotes on a plumbing site, no lookup table
-
-**Stack**
-
-`Claude Code` `Next.js` `React` `Trigger.dev` `Composio` `TypeScript` `Tailwind CSS` `GSAP` — also fluent in `n8n` `GoHighLevel` `Make` `Zapier` when the client's already there
-
-**Right now**
-
-Rebuilding my freelance pipeline (Upwork / OnlineJobs.ph), scoping projects by what's actually valuable to a business, not what's fun to build.
-
----
-
-📫 [Upwork](https://www.upwork.com/freelancers/~0133dfaffaaaf4cc5a) · [LinkedIn](https://www.linkedin.com/in/reon-martin-5bb8b7364/) · [OnlineJobs.PH](https://www.onlinejobs.ph/jobseekers/info/2718705) · reonfirst@gmail.com
