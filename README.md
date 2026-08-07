@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Reon 👋</h1>
-<h3 align="center">AI Systems Consultant · Freelance Developer</h3>
+<h3 align="center">AI Systems Consultant · Freelance Developer · College Student </h3> 
 
 <p align="center">
 I build AI-powered systems for service businesses — support agents, CRM automation, live dashboards, and the websites that sit in front of them.<br/>
