@@ -29,9 +29,8 @@ Manila, Philippines · GMT+8
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1A1A2E?style=for-the-badge&logoColor=white)
-( Zapier and Make isn't my Main Automations )
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white)
+
+*Also comfortable picking up Make and Zapier for clients already on them.*
 
 **Frontend & Motion**
 
