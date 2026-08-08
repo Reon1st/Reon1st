@@ -19,7 +19,7 @@ Manila, Philippines · GMT+8
 
 - 🧠 Building AI-powered systems for service businesses — support agents, CRM automation, Scaling your business with beneficial outcomes, and returns.
 - 🎓 Based in Cavite, currently juggling freelance work with college
-- 💼 Taking on project-based work through Upwork / OnlineJobs.PH — fixed scope, not retainers
+- 💼 Taking on contract-to-hire work through Upwork / OnlineJobs.PH, Open to Retainers or  Project's scope, Commitments are welcomed as well.
 - 🎯 No tool-learning without a real client or market reason — I scope by what's actually valuable, not what's fun to build
 
 ### Tech Stack
