@@ -3,7 +3,7 @@
 
 <p align="center">
 I build AI-powered systems for service businesses — support agents, CRM automation, live dashboards, and the websites that sit in front of them.<br/>
-Manila, Philippines · GMT+8
+Cavite, Philippines · GMT+8
 </p>
 
 <p align="center">
