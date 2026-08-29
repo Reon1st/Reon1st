@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:451a03,100:b45309&height=200&section=header&text=Reon&fontSize=48&fontColor=fdf4e3&animation=fadeIn&fontAlignY=42" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0f12,100:1a2530&height=160&section=header&text=Reon&fontSize=42&fontColor=e0e0e0&animation=fadeIn&fontAlignY=36&desc=AI%20Systems%20%C2%B7%20Automation%20%C2%B7%20Web%20Apps&descAlignY=58&descSize=16&descColor=5accf2" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Reon1st"><img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&pause=1000&color=B45309&background=00000000&center=true&vCenter=true&width=600&lines=AI+Systems+Consultant;Automation+Engineer;Freelance+Developer;Builder+of+Tools+%26+Web+Apps" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5ACCF2&background=00000000&center=true&vCenter=true&width=600&lines=AI+Systems+Consultant;Automation+Engineer;Freelance+Developer;Builder+of+Tools+%26+Web+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -51,12 +51,6 @@ Cavite, Philippines · GMT+8
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Composio](https://img.shields.io/badge/Composio-1A1A2E?style=for-the-badge&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Reon1st&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=B45309&text_color=E8DCC8&icon_color=B45309&border_radius=10" alt="Reon's GitHub stats" />
-</p>
 
 ### Recently Shipped
 
