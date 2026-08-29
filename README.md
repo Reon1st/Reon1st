@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Reon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solo%20builder%20shipping%20automation,%20tools,%20and%20web%20apps&descAlignY=58&descSize=16" />
 </p>
-
 <h3 align="center">AI Systems Consultant · Freelance Developer · College Student </h3> 
 
 <p align="center">
