@@ -18,7 +18,7 @@ the projects pinned below are what i viewed as big projects I have made.
 
 I also plan to document and share my journey through X.
 
-*Fun facts*
+<h4>*Fun facts*</h4>
 
 - My Favorite show is Suits.
 - Favorite Anime is Cyberpunk Edgerunners
