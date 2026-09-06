@@ -8,7 +8,9 @@ Most projects are built whether in Claude, Codex, or other accessible AI tools, 
 
 I also do automations on n8n
 
-I use resources such as 21st dev, Awwwards, nanobanana, Google flow,  unslope.site, mobbin for getting inspirations, having unique awesome react UI components, Inspirations, and image generations
+I use resources such as 
+21st dev, Awwwards, nanobanana, Google flow,  unslope.site, mobbin 
+for getting inspirations, having unique awesome react UI components, Inspirations, and image generations
 
 I use Unsplash or pexels for integrating or getting images.
 
