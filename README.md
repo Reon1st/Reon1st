@@ -4,7 +4,7 @@ I'm [Reon](https//reonmartin.cloud) a College student who's actively making proj
 
 I brainstorm ideas and then go to building and shipping products end to end, focusing on making manual and tedious day-to-day task to a possible automated working systems that makes my life easier, and for others as well.
 
-Most projects are built whether in Claude, Codex, or other accessible AI tools, and shipping them either vercel.
+Most projects are built whether in Claude, Codex, or other accessible AI tools, and shipping them in vercel.
 
 I also do automations on n8n
 
