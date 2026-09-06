@@ -1,4 +1,4 @@
-<h3>Hey there</h3>
+<h3>Hi there👋🏼/h3>
 
 I'm [Reon](https//reonmartin.cloud) a College student who's actively making projects and freelancing in the Philippines.
 
