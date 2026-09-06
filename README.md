@@ -22,4 +22,4 @@ I also plan to document and share my journey through X.
 
 - My Favorite show is Suits.
 - Favorite Anime is Cyberpunk Edgerunners
-- I drink mainly coffee most of the time to keep myself awake
+- I drink mainly coffee to keep myself awake
