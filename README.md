@@ -17,7 +17,7 @@ Currently making more projects while studying in college.
 
 the projects pinned below are what i viewed as big projects I have made.
 
-I also plan to document and share my journey through X.
+I also plan to document and share my journey through [X].
 
 *<h4>Fun facts</h4>*
 
