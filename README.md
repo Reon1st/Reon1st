@@ -6,6 +6,8 @@ I try to brainstorm idea's, building and shipping products end to end, focusing 
 
 Most projects are built whether in Claude, Codex, or other accessible AI tools, and shipping them either in vercel.
 
+I also do automations on n8n
+
 I use resources such as 21st dev, Awwwards, nanobanana, Google flow,  unslope.site, mobbin, and either shutterstock or pexels. (sometimes unsplash).
 
 Currently making more projects while studying in college.
