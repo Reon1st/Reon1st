@@ -1,6 +1,6 @@
 <h3>Hi there👋🏼</h3>
 
-I'm [Reon](https://reonmartin.cloud) a College student who's actively making projects and freelancing from the Philippines.
+I'm [Reon](https://reonmartin.cloud), a College student who's actively making projects and freelancing from the Philippines.
 
 I brainstorm ideas and then go to building and shipping products end to end, focusing on making manual and tedious day-to-day task to a possible automated working systems that makes my life easier, and for others as well.
 
